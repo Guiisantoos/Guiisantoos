@@ -16,6 +16,8 @@
 </div>
 <div style="display: inline_block"><br>
   
+ ![icons8-dota-2-48](https://user-images.githubusercontent.com/88292977/177912460-7061e069-c528-400a-92e7-095b0a1384bf.png)
+ 
 </div>
 <h1> COME COBRINHA COME... 🐍
 
