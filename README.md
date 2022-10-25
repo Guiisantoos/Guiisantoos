@@ -4,7 +4,7 @@
 - 🌱 I’m currently living: As aventuras de um Github organizado - parte 7
 - 🤡 I’m looking for help with Minha rotina de estudos AAAAAAaaaaaaaaA
 - 💬 Ask me about Lobos, e eu voltarei liderando a manada
-- 📫 How to reach me: [Intagram 📸](https://www.instagram.com/guiifs_/)
+- 📫 How to reach me: [Instagram 📸](https://www.instagram.com/guiifs_/)
 - 😄 Pronouns: Pode me chamar de 'papai'.
 - 🧻 Fun fact: Ganhador do prêmio Dundie. 🏆
 
