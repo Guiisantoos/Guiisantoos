@@ -1,11 +1,9 @@
 ### Aaaaalo! Aaaaaaqua? 🚿
 
-- ⌨ I’m currently working on Atendimento ao cliente via chat
+- ⌨ I’m currently working on Controladoria jurídica on Leite, Tosto e Barros advs
 - 🌱 I’m currently living: As aventuras de um Github organizado - parte 7
 - 🤡 I’m looking for help with Minha rotina de estudos AAAAAAaaaaaaaaA
-- 💬 Ask me about Lobos, e eu voltarei liderando a manada
 - 📫 How to reach me: [Instagram 📸](https://www.instagram.com/guiifs_/)
-- 😄 Pronouns: Pode me chamar de 'papai'.
 - 🧻 Fun fact: Ganhador do prêmio Dundie. 🏆
 
 
