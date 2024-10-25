@@ -9,11 +9,6 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guiisantoos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiisantoos&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Guiisantoos&show_icons=true&theme=dark"
@@ -25,6 +20,8 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Guiisantoos&show_icons=true" />
 </picture>
+</div>
+<div style="display: inline_block"><br>
   
  ![icons8-dota-2-48](https://user-images.githubusercontent.com/88292977/177912460-7061e069-c528-400a-92e7-095b0a1384bf.png)
  ![icons8-valorant-48](https://user-images.githubusercontent.com/88292977/177912631-22f03860-8208-4bf0-b294-073488ca9d07.png)
