@@ -20,7 +20,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Guiisantoos&show_icons=true" />
 </picture>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guiisantoos&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   
